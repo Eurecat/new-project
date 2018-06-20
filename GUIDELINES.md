@@ -5,11 +5,15 @@ See at <https://www.eurecat.org/docs/releasing> for more information about relea
 
 ## Pusblishing Steps
 
-1. Ask your unit director whether the code in this project is susceptible for open source publishing.
-2. If the code is a modification of an existing code licensed as GPL or CC NC-ND-SA, or if it is simply a snippet, then it can be directly uploaded to <https://github.com/eurecat>. 	
-3. Otherwise, the code still, valid for open source, has to apply for publishing to an internal committee X.	
-4. Any publication need to request access to the account administrator(s). Afterwards the pushes to that repository are freely granted for the developer. For repositories already existent, access request is also a requisite. 	
-
+1. Write a note to describe briefly your code, including:   
+    - Title of the project.  
+    - Brief description of the code's purpose.  
+    - Code access link (private for the moment).    
+    - Any additional consideration that you consider relevant for the publishing review.    
+2. Use the note to ask your unit director and scientific director whether the code is susceptible for open source publishing. Note that if the code is a modification of an existing code licensed as GPL or CC NC-ND-SA, or if it is simply a snippet, then it could be directly referred to the step 4.    	
+3. Otherwise, the code has to apply for publishing to the Open Source Eurecat committee.  
+4. Any publication needs to request access to the account administrator(s) at <https://github.com/eurecat>. Afterwards the pushes to that repository are freely granted for the developer. For repositories already existent, access request is also a requisite. 	
+5. Further versions of the code affecting any publishing aspect considered throughout the above steps must be re-submitted for review from the step 1.   
 
 ## How to Use this Template
 
